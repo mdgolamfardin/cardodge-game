@@ -45,8 +45,8 @@ Avoid the cars coming towards you and survive as long as possible to score highe
 ## Contributing
 Feel free to fork this repository and submit pull requests with enhancements or fixes. For major changes, please open an issue first to discuss what you would like to change.
 
-## License
-This project is open source and available under the [MIT License](LICENSE.txt).
+## Acknowledgement
 
+This project is a part of the course "100 Days of Code: The Complete Python Pro Bootcamp", taught by Dr. Angela Yu on udemy.
 ## Author
 - [mdgolamfardin](https://github.com/mdgolamfardin)
