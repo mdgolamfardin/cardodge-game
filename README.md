@@ -9,6 +9,12 @@ The Car Dodge Game is a fun and interactive Python game, based on a project from
 - Score tracking that increases with the player's level.
 - Game over scenario with restart capabilities.
 
+## Technologies
+- **Programming Language**: Python
+- **Graphics Library**: turtle module
+- **Development Tools**: Git for version control, Visual Studio Code as the IDE
+- **Libraries**: time, random
+
 ## Installation
 To play the Car Dodge Game, you will need to have Python installed on your system. If you do not have Python installed, follow the steps below to download and install it.
 
