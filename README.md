@@ -10,8 +10,8 @@ The Car Dodge Game is a fun and interactive Python game, based on a project from
 - Game over scenario with restart capabilities.
 
 ## Technologies
-- **Programming Language**: Python
-- **Graphics Library**: turtle module
+- **Programming Language**: Python3
+- **Graphics Library**: Turtle Graphics
 - **Development Tools**: Git for version control, Visual Studio Code as the IDE
 - **Libraries**: time, random
 
